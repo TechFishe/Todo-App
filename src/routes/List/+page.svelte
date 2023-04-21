@@ -31,6 +31,10 @@
 	}
 </script>
 
+<svelte:head>
+    <title>To-Do List</title>
+</svelte:head>
+
 <header class="ml-4">
 	<h1>To-do List</h1>
 </header>
