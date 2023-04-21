@@ -32,7 +32,7 @@
 </script>
 
 <svelte:head>
-    <title>To-Do List</title>
+    <title>To-do List</title>
 </svelte:head>
 
 <header class="ml-4">
