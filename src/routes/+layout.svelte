@@ -8,7 +8,7 @@
 <header
 	class:max-sm:rounded-br-xl={!menuOpen}
 	class="px-4 py-2 shadow-lg sm:flex sm:w-screen sm:rounded-bl-xl">
-	<h1 class="w-2/3 text-6xl font-extrabold tracking-wider antialiased max-sm:hidden">Desktop</h1>
+	<h1 class="w-2/3 text-6xl font-extrabold tracking-wider antialiased max-sm:hidden">To-do App</h1>
 	<nav class="sm:w-1/3">
 		<section class="flex items-center divide-x-[1px] divide-[#424651]/[0.15]">
 			<div>
