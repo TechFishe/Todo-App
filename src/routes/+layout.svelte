@@ -90,7 +90,7 @@
 					</li>
 					<li>
 						<a
-							href="http://github.com/TechFishe"
+							href="https://github.com/TechFishe/Todo-App"
 							target="_blank"
 							rel="noopener noreferrer"
 							on:click={() => (menuOpen = false)}>
