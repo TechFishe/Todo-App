@@ -11,6 +11,10 @@
 	}
 </script>
 
+<svelte:head>
+    <title>Settings</title>
+</svelte:head>
+
 <header class="ml-4">
 	<h1>Settings</h1>
 </header>
