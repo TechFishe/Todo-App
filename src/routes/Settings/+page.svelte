@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-    <title>Settings</title>
+	<title>Settings</title>
 </svelte:head>
 
 <header class="ml-4">

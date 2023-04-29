@@ -19,8 +19,15 @@ h1 {
 	font-size: 3rem;
 	line-height: 1;
 	font-weight: 700;
-	letter-spacing: 0.025rem;
+	letter-spacing: 0.05rem;
 	@apply antialiased;
+}
+h2{
+	font-size: 2.25rem;
+	line-height: 2.5rem;
+	font-weight: 700;
+	letter-spacing: 0.025rem;
+	@apply text-4xl font-bold tracking-wide
 }
 
 @layer components {
