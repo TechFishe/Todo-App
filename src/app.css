@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
+body,
+dialog {
 	background-color: #fff2f1;
 	color: #424651;
 	/* @apply selection:bg-[#759FBC]/75; */
@@ -22,19 +23,21 @@ h1 {
 	letter-spacing: 0.05rem;
 	@apply antialiased;
 }
-h2{
+h2 {
 	font-size: 2.25rem;
 	line-height: 2.5rem;
 	font-weight: 700;
 	letter-spacing: 0.025rem;
-	@apply text-4xl font-bold tracking-wide
+	@apply text-4xl font-bold tracking-wide;
+}
+
+button,
+input {
+	outline-width: 0;
 }
 
 @layer components {
 	.debug {
 		@apply border border-red-600;
-	}
-	button {
-		outline-width: 0;
 	}
 }
